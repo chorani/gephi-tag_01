@@ -56,7 +56,7 @@ function initSigma(config) {
         defaultLabelBGColor: "#ddd",
         defaultHoverLabelBGColor: "#002147",
         defaultLabelHoverColor: "#fff",
-        labelThreshold: 2,
+        labelThreshold: 10,
         defaultEdgeType: "curve",
         hoverFontStyle: "bold",
         fontStyle: "bold",
