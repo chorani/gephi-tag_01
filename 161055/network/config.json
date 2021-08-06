@@ -10,7 +10,7 @@
   "text": {
     "more": "대림디움몰(161055) - 인테리어용품,수예\n\u003c-\u003e 펄세스몰(157523)건강식품,제품",
     "intro": "대림디움몰(161055) - 인테리어용품,수예\n\u003c-\u003e 펄세스몰(157523)건강식품,제품",
-    "title": "더블유쇼핑 OutTag"
+    "title": "대림 디움몰 OutTag"
   },
   "legend": {
     "edgeLabel": "관심사 Edge",
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 2.5,
+      "minEdgeSize": 1.2,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
